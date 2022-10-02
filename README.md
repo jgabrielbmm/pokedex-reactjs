@@ -1,7 +1,7 @@
 ## Pokédex 
 
 O pokédex é uma aplicação que facilita a busca de informações sobre um pokemon
-usando o nome ou id do pokemon.
+usando o nome ou id do mesmo.
 
 ![Foto da Aplicação](./public/pokedex.png)
 
