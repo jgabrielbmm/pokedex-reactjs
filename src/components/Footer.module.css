@@ -1,0 +1,27 @@
+.footer{
+    margin-top: 3em;
+    text-align: center;
+}
+
+.footer h2 {
+    color:#fff;
+    margin-bottom: 2em;
+}
+
+.footer p{
+    font-size: 1.2em;
+}
+
+.link{
+    text-decoration: none;
+    color:#fff;
+}
+
+.link:hover{
+    color:blue;
+}
+
+.footer_span{
+    color: black;
+    font-weight: bold;
+}

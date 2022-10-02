@@ -1,0 +1,41 @@
+.card{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.card img {
+    height: 250px;
+    width: 250px;
+    padding: 1em;
+    border: 5px solid black;
+    margin-right: 2em;
+    background-color: #fff;
+}
+
+
+.info h2 {
+    background-color: #aaa;
+    width: 300px;
+    margin-bottom: 0.9em;
+}
+
+.pokemon_name{
+    margin-left: 1.5em;
+    text-align: center;
+}
+
+.id{
+    background-color: black;
+    color: #fff;
+    padding-right: .5em;
+}
+
+.card p {
+    font-size: 20px;
+    background-color: #fff;
+    margin-bottom: .5em;
+    padding: .3em;
+}
+.card p span {
+    font-weight: boder;
+}
