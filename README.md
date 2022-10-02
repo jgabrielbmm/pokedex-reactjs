@@ -1,6 +1,7 @@
 ## Pokédex 
 
-O pokédex é uma aplicação que facilita a busca de informações sobre pokemons
+O pokédex é uma aplicação que facilita a busca de informações sobre um pokemon
+usando o nome ou id do pokemon.
 
 ![Foto da Aplicação](./public/pokedex.png)
 
@@ -16,4 +17,4 @@ O pokédex é uma aplicação que facilita a busca de informações sobre pokemo
 #### Consumo de API
 
 A API de consumo foi a PokéAPI https://pokeapi.co/ e por meio do
-Fetch as insformações são trazidas para a aplicação que foi feita em ReactJS.
+Fetch as insformações são trazidas para a aplicação feita em ReactJS.
