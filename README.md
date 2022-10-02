@@ -3,8 +3,9 @@
 O pokédex é uma aplicação que facilita a busca de informações sobre pokemons
 
 #### Informações retornadas:
+    id do pokemon
     Foto do pokemon
-    Típo do pokemon
+    Tipo do pokemon
     Altura
     Peso
     Experiência
